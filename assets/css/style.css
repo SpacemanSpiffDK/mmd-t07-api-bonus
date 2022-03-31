@@ -66,3 +66,8 @@ body {
 h1, p {
 	margin-bottom: var(--frp-density-m);
 }
+
+body.visited25 div#app {
+	background-color: red;
+	padding: 100px;
+}
